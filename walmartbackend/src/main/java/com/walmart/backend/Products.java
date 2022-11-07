@@ -17,7 +17,7 @@ public class Products {
     Products() {
 
         String content = "";
-        try (BufferedReader reader = new BufferedReader(new FileReader("/Users/mayankgowda/workspace/walmartbackend/src/main/resources/static/products.json"))) {
+        try (BufferedReader reader = new BufferedReader(new FileReader("./src/main/resources/static/products.json"))) {
             StringBuilder stringBuilder = new StringBuilder();
             char[] buffer = new char[10];
             while (reader.read(buffer) != -1) {
