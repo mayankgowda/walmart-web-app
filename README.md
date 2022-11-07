@@ -1,4 +1,4 @@
-# Disclaimer
+# Statement of Integerity
 
 This project is authored by Mayank Ravishankara with independant and individual contributions. While documentations, online examples, other projects were referred, the entire codebase is solely architected by Mayank. No known plagiarism was made.
 
